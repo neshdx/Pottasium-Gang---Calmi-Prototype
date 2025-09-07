@@ -18,10 +18,10 @@ It complements existing university support systems by providing **self-care tool
 ---
 
 ## ✨ Key Features
-- 📝 **Daily Mood Check-in** – Track emotions with emojis & journaling.  
-- 📅 **Smart Calendar Sync** – Detect deadlines, send stress reminders.  
-- 🧘 **Self-Care Toolkit** – Breathing, meditation, Pomodoro, stretching.     
-- 🎮 **Mini-Games & Challenges** – Relieve stress & stay motivated.  
+-  **Daily Mood Check-in** – Track emotions with emojis & journaling.  
+- **Smart Playlist Sync** – Recommends songs or sounds based on emotions or mood.  
+-  **Self-Care Toolkit** – Breathing, meditation, Pomodoro, stretching.     
+-  **Mini-Games & Challenges** – Relieve stress & stay motivated.  
 
 ---
 
